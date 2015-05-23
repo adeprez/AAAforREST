@@ -1,0 +1,16 @@
+{
+  "port": "1337",
+  
+  "db_hostname": "127.0.0.1",
+  "db_port": "5984",
+  
+  "proxy_reset_url": "http://127.0.0.1:1337",
+  
+  "email_from": "username@server.com",
+  "smtp_user": "username",
+  "smtp_password": "password",
+  "smtp_host": "smtp.server.com",
+  
+  "admin_login": "login",
+  "admin_password": "password"
+}
